@@ -1,0 +1,70 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Astronomy
+build_property.ProjectDir = E:\Pulpit\Zajecia\s7\android_lab\2022Z_mobile_iot_24555\lab_6\Astronomy\
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/Pages/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AboutPage.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/Pages/AstronomicalBodiesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AstronomicalBodiesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AstronomicalBodiesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AstronomicalBodiesPage.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/Pages/AstronomicalBodyPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AstronomicalBodyPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AstronomicalBodyPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AstronomicalBodyPage.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/Pages/MoonPhasePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.MoonPhasePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MoonPhasePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MoonPhasePage.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/Pages/SunrisePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.SunrisePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SunrisePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SunrisePage.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
+
+[E:/Pulpit/Zajecia/s7/android_lab/2022Z_mobile_iot_24555/lab_6/Astronomy/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
